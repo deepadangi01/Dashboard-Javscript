@@ -6,6 +6,11 @@
     font-family: "Roboto", sans-serif;
 
 }
+.main{
+    background-color: rgb(96, 93, 122);
+}
+
+
 .header{
     padding:30px;
     position: sticky;
@@ -114,7 +119,7 @@ ul li i:hover{
     display: flex;
     flex-wrap: wrap;
     gap: 10px;
-    padding: 10px;
+    padding:10px;
 }
  .img-box .box{
  display: flex;
@@ -123,7 +128,7 @@ ul li i:hover{
  justify-content: center;
  align-items: center;
  height: fit-content;
- padding:20px;
+ padding:9px 20px;
  
 }
 .img-box .box progress{
@@ -159,9 +164,15 @@ ul li i:hover{
     background-color: rgb(20, 104, 62);
     color:white;
 }
-.img-box img{
-    width: 40%;
+.img-box .img1 {
+    width: 100%;
 }
+
+.img1 img{
+    width:40%;
+    height: 60%;
+}
+
 
  .img-box form{
     height: 100%;
@@ -184,7 +195,7 @@ ul li i:hover{
  }
  .table-box table{
     width: 100%;
-    background-color: rgb(243, 197, 191);
+    background-color: rgb(239, 245, 245);
 
  }
 
@@ -202,7 +213,7 @@ ul li i:hover{
 }
 #showdata{
     text-align: center;
-    padding:10px;
+    padding:20px;
 }
 #showdata button{
     background-color: rgb(226, 73, 43);

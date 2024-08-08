@@ -1,3 +1,9 @@
+function fun(){
+let t=document.getElementById('tog')
+t.classList.toggle('main');
+}
+
+
 async function fet(){
     let res = await fetch("http://localhost:3000/patient")
     let r = await res.json()
