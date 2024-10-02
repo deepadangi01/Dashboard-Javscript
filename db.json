@@ -2,19 +2,19 @@
   "patient": [
     {
       "id": "1",
-      "pt_name": "deepa dangi",
-      "ad": "dr .sneha",
-      "dt": "2024-05-22",
-      "time": "05:01",
+      "pt_name": "neeta josi",
+      "ad": "dr deepa",
+      "dt": "0024-04-05",
+      "time": "16:52",
       "ac": "cold"
     },
     {
-      "id": "2",
-      "pt_name": "nisha",
-      "ad": "dr sharma",
-      "dt": "2024-04-05",
-      "time": "17:23",
-      "ac": "ferver"
+      "id": "5",
+      "pt_name": "deepa",
+      "ad": "dr megha sharma",
+      "dt": "2024-01-02",
+      "time": "14:55",
+      "ac": "cold"
     }
   ]
 }

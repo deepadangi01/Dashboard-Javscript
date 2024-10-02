@@ -6,11 +6,24 @@
     font-family: "Roboto", sans-serif;
 
 }
+.lpage{
+    display: block;
+    color:chocolate;
+}
 .main{
     background-color: rgb(96, 93, 122);
 }
 
+#login{
+    display: none;
+}
+#login input{
+    border: 1px solid grey;
+    padding: 10px;
+    border-radius: 6px;
 
+        
+}
 .header{
     padding:30px;
     position: sticky;
